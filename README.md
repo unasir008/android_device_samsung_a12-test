@@ -32,7 +32,7 @@ Clone the necessary repositories for the Samsung Galaxy A12:
 
 - **Vendor Tree**:  
    ```bash
-   git clone https://github.com/unasir008/android_vendor_samsung_a12.git vendor/samsung/a12
+   git clone https://github.com/unasir008/android_vendor_samsung_a12-test.git vendor/samsung/a12
    ```
 
 - **Kernel Tree**:  
